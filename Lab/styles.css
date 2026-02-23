@@ -1,0 +1,30 @@
+body {
+    background-color: #f4f6f9;
+}
+
+.container-box {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #ccc;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+    
+.card {
+    margin-top: 50px;
+    border-radius: 15px;
+}
+.error {
+    color: red;
+    font-weight: bold;
+}
+.result-box {
+    background-color: #e9f7ef;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
